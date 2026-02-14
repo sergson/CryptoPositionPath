@@ -1,0 +1,54 @@
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://localhost:8501
+
+==================================================
+🚀 Starting Crypto Position Path
+==================================================
+📊 Interface: http://localhost:8501
+==================================================
+
+Press Ctrl+C to stop
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://localhost:8501
+
+==================================================
+🚀 Starting Crypto Position Path
+==================================================
+📊 Interface: http://localhost:8501
+==================================================
+
+Press Ctrl+C to stop
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://localhost:8501
+
+^C
+  You can now view your Streamlit app in your browser.
+
+  URL: http://localhost:8501
+
+19:30:17.808 [INFO    ] data_collector - ✅ Data collection started: binance spot (currency: USDT) every 60s
+19:30:22.129 [INFO    ] async_fetcher - ✅ binance (spot) ready. Pairs: 3501
+19:30:25.760 [INFO    ] async_fetcher - ⚠ Filtered out 146 inactive pairs (data older than 24 hours):
+19:30:25.853 [INFO    ] data_storage - 💾 Snapshot saved: snapshot_binance_spot_20260214_193025 (441 records, exchange time: 2026-02-14T10:30:21)
+19:30:27.136 [WARNING ] analytics_engine - Not enough snapshots to build tracks
+19:31:31.495 [INFO    ] async_fetcher - ✅ binance (spot) ready. Pairs: 3501
+19:31:34.116 [INFO    ] async_fetcher - ⚠ Filtered out 146 inactive pairs (data older than 24 hours):
+19:31:34.194 [INFO    ] data_storage - 💾 Snapshot saved: snapshot_binance_spot_20260214_193134 (441 records, exchange time: 2026-02-14T10:31:29)
+19:32:42.144 [INFO    ] async_fetcher - ✅ binance (spot) ready. Pairs: 3501
+19:32:45.876 [INFO    ] async_fetcher - ⚠ Filtered out 146 inactive pairs (data older than 24 hours):
+19:32:45.966 [INFO    ] data_storage - 💾 Snapshot saved: snapshot_binance_spot_20260214_193245 (441 records, exchange time: 2026-02-14T10:32:39)
+19:33:53.609 [INFO    ] async_fetcher - ✅ binance (spot) ready. Pairs: 3501
+19:33:55.988 [INFO    ] async_fetcher - ⚠ Filtered out 146 inactive pairs (data older than 24 hours):
+19:33:56.050 [INFO    ] data_storage - 💾 Snapshot saved: snapshot_binance_spot_20260214_193356 (441 records, exchange time: 2026-02-14T10:33:52)
+19:35:02.726 [INFO    ] async_fetcher - ✅ binance (spot) ready. Pairs: 3501
+19:35:05.469 [INFO    ] async_fetcher - ⚠ Filtered out 146 inactive pairs (data older than 24 hours):
+19:35:05.547 [INFO    ] data_storage - 💾 Snapshot saved: snapshot_binance_spot_20260214_193505 (441 records, exchange time: 2026-02-14T10:35:02)
+^C

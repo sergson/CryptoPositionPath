@@ -1,0 +1,14 @@
+name: ccxt_dashboard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - streamlit>=1.28.0
+  - pandas>=2.0.0
+  - aiohttp>=3.9.0
+  - numpy>=1.24.0
+  - scipy>=1.11.0
+  - pip:
+    - ccxt>=4.0.0

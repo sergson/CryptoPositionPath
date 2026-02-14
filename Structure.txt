@@ -1,0 +1,24 @@
+crypto_dashboard/
+│
+├── run.py                     # Simple system launcher
+├── main_app.py                # Main Streamlit application
+├── run.bat                    # Launch script for Windows
+├── run.sh                     # Launch script for Linux/macOS
+├── requirements.txt           # Python dependencies
+│
+├── logs/                      # Directory for log files
+│
+├── config_page.py             # Configuration page UI and settings management
+├── data_collector.py          # Background data collection thread
+├── async_fetcher.py           # Asynchronous exchange data fetcher with ranking
+├── analytics_engine.py        # Builds and saves price trajectory tracks
+├── data_storage.py            # SQLite database handling (snapshots, colors, settings)
+├── universal_resolver.py      # Cross‑platform DNS resolver for aiohttp
+├── log_viewer.py              # Performance log viewer UI
+├── logger.py                  # Configurable logging (singleton)
+├── svg_track_renderer.py      # SVG generation for track visualisation (pan/zoom)
+├── track_builder.py           # Track data structures and DB persistence
+├── manual_tracks_manager.py   # Management of manually selected tracks
+├── color_manager.py           # Pair color management and display
+│
+└── crypto_data.db             # SQLite database file (created at runtime)
